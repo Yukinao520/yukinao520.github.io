@@ -1,4 +1,4 @@
 # English|[中文](/README-ZH.md)
-# Ability-Weapon
+# GGO Learning Sesh
 
 Let you quickly get started with GGO and become a broach boss :)
